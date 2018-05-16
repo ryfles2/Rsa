@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\ryfles2\desktop\rsa\rsa\source.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryfles2\desktop\rsa\rsa\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryfles2\desktop\rsa\rsa\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryfles2\desktop\rsa\rsa\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryfles2\desktop\rsa\rsa\source.cpp(64): warning C4101: 'e1': unreferenced local variable
+  Rsa.vcxproj -> C:\Users\Ryfles2\Desktop\Rsa\Debug\Rsa.exe
+  Rsa.vcxproj -> C:\Users\Ryfles2\Desktop\Rsa\Debug\Rsa.pdb (Partial PDB)
